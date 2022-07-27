@@ -46,4 +46,3 @@ Len = len(Str)
 
 printChar(list(Str), Len)
 
-# This code is contributed by shinjanpatra
